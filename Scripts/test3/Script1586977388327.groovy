@@ -37,9 +37,6 @@ WebUI.click(findTestObject('Object Repository/clients/Page_BIG DATA AGENCY/li_Ap
 
 WebUI.click(findTestObject('Object Repository/clients/Page_BIG DATA AGENCY/li_All'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/clients/Page_BIG DATA AGENCY/div_Previous                               _330dfb'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/clients/Page_BIG DATA AGENCY/button_Next'))
 
 WebUI.click(findTestObject('Object Repository/clients/Page_BIG DATA AGENCY/button_Previous'))
