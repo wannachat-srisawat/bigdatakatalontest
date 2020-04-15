@@ -30,5 +30,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/careers/Page_BIG DATA AG
 
 WebUI.scrollToElement(findTestObject('Object Repository/careers/Page_BIG DATA AGENCY/h2_Tester'), 3)
 
+title = WebUI.getWindowTitle()
+
 WebUI.closeBrowser()
 

@@ -52,5 +52,7 @@ WebUI.click(findTestObject('home/Page_BIG DATA AGENCY/button_8'))
 
 WebUI.click(findTestObject('home/Page_BIG DATA AGENCY/button_9'))
 
+title = WebUI.getWindowTitle()
+
 WebUI.closeBrowser()
 

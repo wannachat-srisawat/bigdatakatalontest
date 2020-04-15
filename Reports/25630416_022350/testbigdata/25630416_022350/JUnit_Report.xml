@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="testbigdata" time="109.953" tests="5" failures="1" errors="0">
+   <testsuite name="testbigdata" tests="5" failures="1" errors="0" time="109.953" timestamp="2563-04-16 02:23:56" hostname="User - DESKTOP-84EJ34A" id="Test Suites/testbigdata">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\git\\bigdatakatalontest\\Reports\\25630416_022350\\testbigdata\\25630416_022350"/>
+         <property name="logFiles" value="C:\\Users\\User\\git\\bigdatakatalontest\\Reports\\25630416_022350\\testbigdata\\25630416_022350\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\User\\git\\bigdatakatalontest\\Reports\\25630416_022350\\testbigdata\\25630416_022350\\1586978695749.png"/>
+         <property name="hostName" value="User - DESKTOP-84EJ34A"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.3.1.1"/>
+         <property name="browser" value="Chrome 80.0.3987.163"/>
+         <property name="hostAddress" value="192.168.227.1"/>
+         <property name="sessionId" value="2481fb639b9182ee17368f819bc55bd2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/test1" time="20.947" classname="Test Cases/test1" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:23:56 - [TEST_CASE][PASSED] - Test Cases/test1: Test Cases/test1
+
+2563-04-16 02:23:57 - [TEST_STEP][PASSED] - openBrowser("https://bda.co.th/"): Browser is opened with url: 'https://bda.co.th/'
+
+2563-04-16 02:23:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2563-04-16 02:23:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:24:08 - [MESSAGE][PASSED] - Browser is opened with url: 'https://bda.co.th/'
+
+2563-04-16 02:24:08 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("home/Page_BIG DATA AGENCY/section_BIG DATA                            Solution                        With our big data architecture focused on data liquidity"), 0): Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_BIG DATA                            Solution                        With our big data architecture focused on data liquidity' successfully
+
+2563-04-16 02:24:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:24:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_BIG DATA                            Solution                        With our big data architecture focused on data liquidity' successfully
+
+2563-04-16 02:24:08 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_Building a competitive advantage with AI NLP and Machine Learning_fa fa-mobile wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Building a competitive advantage with AI NLP and Machine Learning_fa fa-mobile wow fadeInUp' is hovered
+
+2563-04-16 02:24:09 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Building a competitive advantage with AI NLP and Machine Learning_fa fa-mobile wow fadeInUp' is hovered
+
+2563-04-16 02:24:09 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_Providing IT Service to your business and drives high performance_fa fa-robot wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Providing IT Service to your business and drives high performance_fa fa-robot wow fadeInUp' is hovered
+
+2563-04-16 02:24:09 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Providing IT Service to your business and drives high performance_fa fa-robot wow fadeInUp' is hovered
+
+2563-04-16 02:24:09 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_SOFTWARE INNOVATION SOLUTION_fa fa-pie-chart wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_SOFTWARE INNOVATION SOLUTION_fa fa-pie-chart wow fadeInUp' is hovered
+
+2563-04-16 02:24:10 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_SOFTWARE INNOVATION SOLUTION_fa fa-pie-chart wow fadeInUp' is hovered
+
+2563-04-16 02:24:10 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_With our big data architecture focused on data liquidity_fa fa-cogs wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_With our big data architecture focused on data liquidity_fa fa-cogs wow fadeInUp' is hovered
+
+2563-04-16 02:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_With our big data architecture focused on data liquidity_fa fa-cogs wow fadeInUp' is hovered
+
+2563-04-16 02:24:11 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("home/Page_BIG DATA AGENCY/section_About Us"), 0): Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_About Us' successfully
+
+2563-04-16 02:24:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:24:11 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_About Us' successfully
+
+2563-04-16 02:24:11 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/img_About Us_img-responsive")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/img_About Us_img-responsive' is hovered
+
+2563-04-16 02:24:12 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/img_About Us_img-responsive' is hovered
+
+2563-04-16 02:24:12 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("home/Page_BIG DATA AGENCY/section_awards"), 0): Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_awards' successfully
+
+2563-04-16 02:24:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:24:12 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_awards' successfully
+
+2563-04-16 02:24:12 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_1")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:24:12 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:24:12 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_2")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:24:13 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:24:13 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_3")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:24:13 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:24:13 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_4")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:24:14 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:24:14 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_5")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:24:14 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:24:14 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_6")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:24:15 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:24:15 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_7")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:24:16 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:24:16 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_8")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:24:16 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:24:16 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_9")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:24:17 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:24:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:24:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test2" time="21.591" classname="Test Cases/test2" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:24:17 - [TEST_CASE][PASSED] - Test Cases/test2: Test Cases/test2
+
+2563-04-16 02:24:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:24:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2563-04-16 02:24:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:24:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:24:20 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:24:26 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:24:26 - [TEST_STEP][PASSED] - mouseOver(findTestObject("portfolio/Page_BIG DATA AGENCY/a_Portfolio")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is hovered
+
+2563-04-16 02:24:27 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is hovered
+
+2563-04-16 02:24:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is clicked on
+
+2563-04-16 02:24:32 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is clicked on
+
+2563-04-16 02:24:32 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("portfolio/Page_BIG DATA AGENCY/button_1"), 0): Scroll to object 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' successfully
+
+2563-04-16 02:24:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:24:32 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' successfully
+
+2563-04-16 02:24:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_1")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:24:33 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:24:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_2")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:24:33 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:24:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_3")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:24:34 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:24:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_4")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:24:35 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:24:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_5")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:24:35 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:24:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_6")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:24:36 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:24:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_7")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:24:36 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:24:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_8")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:24:37 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:24:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_9")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:24:37 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:24:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_10")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_10' is clicked on
+
+2563-04-16 02:24:38 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_10' is clicked on
+
+2563-04-16 02:24:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_11")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_11' is clicked on
+
+2563-04-16 02:24:38 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_11' is clicked on
+
+2563-04-16 02:24:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:24:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test3" time="16.778" classname="Test Cases/test3" status="FAILED">
+         <failure type="FAILED" message="Test Cases/test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at test3.run(test3:43)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1586978634585.run(TempTestSuite1586978634585.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;button type=&quot;button&quot; data-role=&quot;none&quot; class=&quot;slick-next slick-arrow&quot; aria-label=&quot;...&quot; role=&quot;button&quot; style=&quot;display: block;&quot;>Next&lt;/button> is not clickable at point (961, 43). Other element would receive the click: &lt;a href=&quot;#contact&quot;>...&lt;/a>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-84EJ34A', ip: '192.168.227.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:10375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c49a182af304e54be5602c3d032cbf10
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2563-04-16 02:24:39 - [TEST_CASE][FAILED] - Test Cases/test3: Test Cases/test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at test3.run(test3:43)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1586978634585.run(TempTestSuite1586978634585.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="..." role="button" style="display: block;">Next</button> is not clickable at point (961, 43). Other element would receive the click: <a href="#contact">...</a>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-84EJ34A', ip: '192.168.227.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:10375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c49a182af304e54be5602c3d032cbf10
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2563-04-16 02:24:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:24:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2563-04-16 02:24:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:24:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:24:41 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:24:48 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:24:48 - [TEST_STEP][PASSED] - mouseOver(findTestObject("clients/Page_BIG DATA AGENCY/a_Clients")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is hovered
+
+2563-04-16 02:24:49 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is hovered
+
+2563-04-16 02:24:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/a_Clients")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is clicked on
+
+2563-04-16 02:24:51 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is clicked on
+
+2563-04-16 02:24:51 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/div_Here is a sample of our current and pas_1c9598"), 0): Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Here is a sample of our current and pas_1c9598' successfully
+
+2563-04-16 02:24:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:24:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Here is a sample of our current and pas_1c9598' successfully
+
+2563-04-16 02:24:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_Big Data")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Big Data' is clicked on
+
+2563-04-16 02:24:52 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Big Data' is clicked on
+
+2563-04-16 02:24:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_System Integration")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_System Integration' is clicked on
+
+2563-04-16 02:24:52 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_System Integration' is clicked on
+
+2563-04-16 02:24:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_AI NLP ML")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_AI NLP ML' is clicked on
+
+2563-04-16 02:24:52 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_AI NLP ML' is clicked on
+
+2563-04-16 02:24:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_Application")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Application' is clicked on
+
+2563-04-16 02:24:53 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Application' is clicked on
+
+2563-04-16 02:24:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_All")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_All' is clicked on
+
+2563-04-16 02:24:54 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_All' is clicked on
+
+2563-04-16 02:24:54 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/div_Previous                               _330dfb"), 0): Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Previous                               _330dfb' successfully
+
+2563-04-16 02:24:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:24:54 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Previous                               _330dfb' successfully
+
+2563-04-16 02:24:54 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/button_Next")): Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at test3.run(test3:43)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1586978634585.run(TempTestSuite1586978634585.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="..." role="button" style="display: block;">Next</button> is not clickable at point (961, 43). Other element would receive the click: <a href="#contact">...</a>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-84EJ34A', ip: '192.168.227.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:10375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c49a182af304e54be5602c3d032cbf10
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1586977388327.run(Script1586977388327.groovy:43)
+	... 13 more
+)
+
+2563-04-16 02:24:56 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at test3.run(test3:43)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1586978634585.run(TempTestSuite1586978634585.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="..." role="button" style="display: block;">Next</button> is not clickable at point (961, 43). Other element would receive the click: <a href="#contact">...</a>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-84EJ34A', ip: '192.168.227.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:10375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c49a182af304e54be5602c3d032cbf10
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1586977388327.run(Script1586977388327.groovy:43)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\User\\git\\bigdatakatalontest\\Reports\\25630416_022350\\testbigdata\\25630416_022350\\1586978695749.png]]]]></system-out>
+         <system-err><![CDATA[2563-04-16 02:24:39 - [TEST_CASE][FAILED] - Test Cases/test3: Test Cases/test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at test3.run(test3:43)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1586978634585.run(TempTestSuite1586978634585.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="..." role="button" style="display: block;">Next</button> is not clickable at point (961, 43). Other element would receive the click: <a href="#contact">...</a>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-84EJ34A', ip: '192.168.227.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:10375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c49a182af304e54be5602c3d032cbf10
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test4" time="12.924" classname="Test Cases/test4" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:24:56 - [TEST_CASE][PASSED] - Test Cases/test4: Test Cases/test4
+
+2563-04-16 02:24:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:24:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2563-04-16 02:24:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2563-04-16 02:24:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:24:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:24:59 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:25:05 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:25:05 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/a_Careers")): Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is hovered
+
+2563-04-16 02:25:05 - [MESSAGE][PASSED] - Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is hovered
+
+2563-04-16 02:25:05 - [TEST_STEP][PASSED] - click(findTestObject("careers/Page_BIG DATA AGENCY/a_Careers")): Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is clicked on
+
+2563-04-16 02:25:07 - [MESSAGE][PASSED] - Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is clicked on
+
+2563-04-16 02:25:07 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/h2_Developer"), 3): Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Developer' successfully
+
+2563-04-16 02:25:07 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Developer' successfully
+
+2563-04-16 02:25:07 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/h2_UXUI Designer"), 3): Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_UXUI Designer' successfully
+
+2563-04-16 02:25:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_UXUI Designer' successfully
+
+2563-04-16 02:25:08 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/h2_Tester"), 3): Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Tester' successfully
+
+2563-04-16 02:25:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Tester' successfully
+
+2563-04-16 02:25:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:25:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test5" time="37.408" classname="Test Cases/test5" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:25:09 - [TEST_CASE][PASSED] - Test Cases/test5: Test Cases/test5
+
+2563-04-16 02:25:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:25:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2563-04-16 02:25:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:25:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:25:11 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:25:17 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:25:17 - [TEST_STEP][PASSED] - mouseOver(findTestObject("contact/Page_BIG DATA AGENCY/a_Contact")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is hovered
+
+2563-04-16 02:25:17 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is hovered
+
+2563-04-16 02:25:17 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/a_Contact")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is clicked on
+
+2563-04-16 02:25:18 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is clicked on
+
+2563-04-16 02:25:18 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/img")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/img' is clicked on
+
+2563-04-16 02:25:18 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/img' is clicked on
+
+2563-04-16 02:25:18 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:19 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:19 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:19 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:19 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:20 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:20 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:20 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:20 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:21 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:21 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:21 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:21 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:22 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:22 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:22 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:22 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:23 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:23 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:23 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:23 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:24 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:25:24 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 12_vnbx-button vnbx-close")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 12_vnbx-button vnbx-close' is clicked on
+
+2563-04-16 02:25:25 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 12_vnbx-button vnbx-close' is clicked on
+
+2563-04-16 02:25:25 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x' is clicked on
+
+2563-04-16 02:25:25 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x' is clicked on
+
+2563-04-16 02:25:25 - [TEST_STEP][PASSED] - mouseOver(findTestObject("contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is hovered
+
+2563-04-16 02:25:31 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is hovered
+
+2563-04-16 02:25:31 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is clicked on
+
+2563-04-16 02:25:38 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is clicked on
+
+2563-04-16 02:25:38 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/a_BIG DATA AGENCY CO LTD")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_BIG DATA AGENCY CO LTD' is clicked on
+
+2563-04-16 02:25:45 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_BIG DATA AGENCY CO LTD' is clicked on
+
+2563-04-16 02:25:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:25:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2563-04-16 02:23:56 - [TEST_SUITE][FAILED] - testbigdata: Test Cases/test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at test3.run(test3:43)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1586978634585.run(TempTestSuite1586978634585.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="..." role="button" style="display: block;">Next</button> is not clickable at point (961, 43). Other element would receive the click: <a href="#contact">...</a>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-84EJ34A', ip: '192.168.227.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:10375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c49a182af304e54be5602c3d032cbf10
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2563-04-16 02:23:56 - [TEST_SUITE][FAILED] - testbigdata: Test Cases/test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at test3.run(test3:43)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1586978634585.run(TempTestSuite1586978634585.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" data-role="none" class="slick-next slick-arrow" aria-label="..." role="button" style="display: block;">Next</button> is not clickable at point (961, 43). Other element would receive the click: <a href="#contact">...</a>
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-84EJ34A', ip: '192.168.227.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:10375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c49a182af304e54be5602c3d032cbf10
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy9.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:69)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

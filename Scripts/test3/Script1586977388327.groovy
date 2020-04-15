@@ -45,5 +45,7 @@ WebUI.click(findTestObject('Object Repository/clients/Page_BIG DATA AGENCY/butto
 
 WebUI.click(findTestObject('Object Repository/clients/Page_BIG DATA AGENCY/button_Previous'))
 
+title = WebUI.getWindowTitle()
+
 WebUI.closeBrowser()
 

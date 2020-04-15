@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="testbigdata" time="204.978" tests="5" failures="0" errors="0">
+   <testsuite name="testbigdata" tests="5" failures="0" errors="0" time="204.978" timestamp="2563-04-16 02:18:19" hostname="User - DESKTOP-84EJ34A" id="Test Suites/testbigdata">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\git\\bigdatakatalontest\\Reports\\25630416_021813\\testbigdata\\25630416_021813"/>
+         <property name="logFiles" value="C:\\Users\\User\\git\\bigdatakatalontest\\Reports\\25630416_021813\\testbigdata\\25630416_021813\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - DESKTOP-84EJ34A"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.3.1.1"/>
+         <property name="browser" value="Firefox 75.0"/>
+         <property name="hostAddress" value="192.168.227.1"/>
+         <property name="sessionId" value="08456937-5f72-4056-a8ca-d0b8afc83ed3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/test1" time="29.117" classname="Test Cases/test1" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:18:20 - [TEST_CASE][PASSED] - Test Cases/test1: Test Cases/test1
+
+2563-04-16 02:18:20 - [TEST_STEP][PASSED] - openBrowser("https://bda.co.th/"): Browser is opened with url: 'https://bda.co.th/'
+
+2563-04-16 02:18:20 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2563-04-16 02:18:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:18:35 - [MESSAGE][PASSED] - Browser is opened with url: 'https://bda.co.th/'
+
+2563-04-16 02:18:35 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("home/Page_BIG DATA AGENCY/section_BIG DATA                            Solution                        With our big data architecture focused on data liquidity"), 0): Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_BIG DATA                            Solution                        With our big data architecture focused on data liquidity' successfully
+
+2563-04-16 02:18:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:18:35 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_BIG DATA                            Solution                        With our big data architecture focused on data liquidity' successfully
+
+2563-04-16 02:18:35 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_Building a competitive advantage with AI NLP and Machine Learning_fa fa-mobile wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Building a competitive advantage with AI NLP and Machine Learning_fa fa-mobile wow fadeInUp' is hovered
+
+2563-04-16 02:18:36 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Building a competitive advantage with AI NLP and Machine Learning_fa fa-mobile wow fadeInUp' is hovered
+
+2563-04-16 02:18:36 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_Providing IT Service to your business and drives high performance_fa fa-robot wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Providing IT Service to your business and drives high performance_fa fa-robot wow fadeInUp' is hovered
+
+2563-04-16 02:18:37 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_Providing IT Service to your business and drives high performance_fa fa-robot wow fadeInUp' is hovered
+
+2563-04-16 02:18:37 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_SOFTWARE INNOVATION SOLUTION_fa fa-pie-chart wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_SOFTWARE INNOVATION SOLUTION_fa fa-pie-chart wow fadeInUp' is hovered
+
+2563-04-16 02:18:37 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_SOFTWARE INNOVATION SOLUTION_fa fa-pie-chart wow fadeInUp' is hovered
+
+2563-04-16 02:18:37 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/i_With our big data architecture focused on data liquidity_fa fa-cogs wow fadeInUp")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_With our big data architecture focused on data liquidity_fa fa-cogs wow fadeInUp' is hovered
+
+2563-04-16 02:18:37 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/i_With our big data architecture focused on data liquidity_fa fa-cogs wow fadeInUp' is hovered
+
+2563-04-16 02:18:37 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("home/Page_BIG DATA AGENCY/section_About Us"), 0): Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_About Us' successfully
+
+2563-04-16 02:18:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:18:38 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_About Us' successfully
+
+2563-04-16 02:18:38 - [TEST_STEP][PASSED] - mouseOver(findTestObject("home/Page_BIG DATA AGENCY/img_About Us_img-responsive")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/img_About Us_img-responsive' is hovered
+
+2563-04-16 02:18:38 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/img_About Us_img-responsive' is hovered
+
+2563-04-16 02:18:38 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("home/Page_BIG DATA AGENCY/section_awards"), 0): Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_awards' successfully
+
+2563-04-16 02:18:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:18:38 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/home/Page_BIG DATA AGENCY/section_awards' successfully
+
+2563-04-16 02:18:38 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_1")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:18:39 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:18:39 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_2")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:18:40 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:18:40 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_3")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:18:41 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:18:41 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_4")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:18:41 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:18:41 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_5")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:18:42 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:18:42 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_6")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:18:42 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:18:42 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_7")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:18:43 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:18:43 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_8")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:18:43 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:18:43 - [TEST_STEP][PASSED] - click(findTestObject("home/Page_BIG DATA AGENCY/button_9")): Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:18:43 - [MESSAGE][PASSED] - Object: 'Object Repository/home/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:18:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:18:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test2" time="31.43" classname="Test Cases/test2" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:18:49 - [TEST_CASE][PASSED] - Test Cases/test2: Test Cases/test2
+
+2563-04-16 02:18:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:18:49 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2563-04-16 02:18:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:18:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:18:54 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:19:04 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:19:04 - [TEST_STEP][PASSED] - mouseOver(findTestObject("portfolio/Page_BIG DATA AGENCY/a_Portfolio")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is hovered
+
+2563-04-16 02:19:04 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is hovered
+
+2563-04-16 02:19:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is clicked on
+
+2563-04-16 02:19:08 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/a_Portfolio' is clicked on
+
+2563-04-16 02:19:08 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("portfolio/Page_BIG DATA AGENCY/button_1"), 0): Scroll to object 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' successfully
+
+2563-04-16 02:19:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:19:09 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' successfully
+
+2563-04-16 02:19:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_1")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:19:10 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_1' is clicked on
+
+2563-04-16 02:19:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_2")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:19:10 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_2' is clicked on
+
+2563-04-16 02:19:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_3")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:19:11 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_3' is clicked on
+
+2563-04-16 02:19:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_4")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:19:11 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_4' is clicked on
+
+2563-04-16 02:19:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_5")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:19:12 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_5' is clicked on
+
+2563-04-16 02:19:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_6")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:19:12 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_6' is clicked on
+
+2563-04-16 02:19:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_7")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:19:13 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_7' is clicked on
+
+2563-04-16 02:19:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_8")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:19:13 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_8' is clicked on
+
+2563-04-16 02:19:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_9")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:19:14 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_9' is clicked on
+
+2563-04-16 02:19:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_10")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_10' is clicked on
+
+2563-04-16 02:19:14 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_10' is clicked on
+
+2563-04-16 02:19:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/portfolio/Page_BIG DATA AGENCY/button_11")): Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_11' is clicked on
+
+2563-04-16 02:19:15 - [MESSAGE][PASSED] - Object: 'Object Repository/portfolio/Page_BIG DATA AGENCY/button_11' is clicked on
+
+2563-04-16 02:19:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:19:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test3" time="30.863" classname="Test Cases/test3" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:19:20 - [TEST_CASE][PASSED] - Test Cases/test3: Test Cases/test3
+
+2563-04-16 02:19:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:19:20 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2563-04-16 02:19:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:19:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:19:24 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:19:35 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:19:35 - [TEST_STEP][PASSED] - mouseOver(findTestObject("clients/Page_BIG DATA AGENCY/a_Clients")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is hovered
+
+2563-04-16 02:19:36 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is hovered
+
+2563-04-16 02:19:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/a_Clients")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is clicked on
+
+2563-04-16 02:19:38 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/a_Clients' is clicked on
+
+2563-04-16 02:19:38 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/div_Here is a sample of our current and pas_1c9598"), 0): Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Here is a sample of our current and pas_1c9598' successfully
+
+2563-04-16 02:19:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:19:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Here is a sample of our current and pas_1c9598' successfully
+
+2563-04-16 02:19:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_Big Data")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Big Data' is clicked on
+
+2563-04-16 02:19:40 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Big Data' is clicked on
+
+2563-04-16 02:19:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_System Integration")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_System Integration' is clicked on
+
+2563-04-16 02:19:40 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_System Integration' is clicked on
+
+2563-04-16 02:19:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_AI NLP ML")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_AI NLP ML' is clicked on
+
+2563-04-16 02:19:41 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_AI NLP ML' is clicked on
+
+2563-04-16 02:19:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_Application")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Application' is clicked on
+
+2563-04-16 02:19:41 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_Application' is clicked on
+
+2563-04-16 02:19:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/li_All")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_All' is clicked on
+
+2563-04-16 02:19:42 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/li_All' is clicked on
+
+2563-04-16 02:19:42 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/div_Previous                               _330dfb"), 0): Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Previous                               _330dfb' successfully
+
+2563-04-16 02:19:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2563-04-16 02:19:43 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/clients/Page_BIG DATA AGENCY/div_Previous                               _330dfb' successfully
+
+2563-04-16 02:19:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/button_Next")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next' is clicked on
+
+2563-04-16 02:19:43 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next' is clicked on
+
+2563-04-16 02:19:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/button_Previous")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Previous' is clicked on
+
+2563-04-16 02:19:44 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Previous' is clicked on
+
+2563-04-16 02:19:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/button_Next")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next' is clicked on
+
+2563-04-16 02:19:44 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Next' is clicked on
+
+2563-04-16 02:19:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/clients/Page_BIG DATA AGENCY/button_Previous")): Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Previous' is clicked on
+
+2563-04-16 02:19:45 - [MESSAGE][PASSED] - Object: 'Object Repository/clients/Page_BIG DATA AGENCY/button_Previous' is clicked on
+
+2563-04-16 02:19:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:19:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test4" time="23.516" classname="Test Cases/test4" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:19:51 - [TEST_CASE][PASSED] - Test Cases/test4: Test Cases/test4
+
+2563-04-16 02:19:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:19:51 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2563-04-16 02:19:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:19:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:19:55 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:20:05 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:20:05 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/a_Careers")): Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is hovered
+
+2563-04-16 02:20:05 - [MESSAGE][PASSED] - Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is hovered
+
+2563-04-16 02:20:05 - [TEST_STEP][PASSED] - click(findTestObject("careers/Page_BIG DATA AGENCY/a_Careers")): Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is clicked on
+
+2563-04-16 02:20:08 - [MESSAGE][PASSED] - Object: 'Object Repository/careers/Page_BIG DATA AGENCY/a_Careers' is clicked on
+
+2563-04-16 02:20:08 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/h2_Developer"), 3): Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Developer' successfully
+
+2563-04-16 02:20:09 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Developer' successfully
+
+2563-04-16 02:20:09 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/h2_UXUI Designer"), 3): Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_UXUI Designer' successfully
+
+2563-04-16 02:20:09 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_UXUI Designer' successfully
+
+2563-04-16 02:20:09 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/careers/Page_BIG DATA AGENCY/h2_Tester"), 3): Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Tester' successfully
+
+2563-04-16 02:20:10 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/careers/Page_BIG DATA AGENCY/h2_Tester' successfully
+
+2563-04-16 02:20:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:20:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test5" time="89.795" classname="Test Cases/test5" status="PASSED">
+         <system-out><![CDATA[2563-04-16 02:20:15 - [TEST_CASE][PASSED] - Test Cases/test5: Test Cases/test5
+
+2563-04-16 02:20:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2563-04-16 02:20:15 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2563-04-16 02:20:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2563-04-16 02:20:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2563-04-16 02:20:19 - [TEST_STEP][PASSED] - navigateToUrl("https://bda.co.th/"): Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:20:28 - [MESSAGE][PASSED] - Navigate to 'https://bda.co.th/' successfully
+
+2563-04-16 02:20:28 - [TEST_STEP][PASSED] - mouseOver(findTestObject("contact/Page_BIG DATA AGENCY/a_Contact")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is hovered
+
+2563-04-16 02:20:29 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is hovered
+
+2563-04-16 02:20:29 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/a_Contact")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is clicked on
+
+2563-04-16 02:20:30 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_Contact' is clicked on
+
+2563-04-16 02:20:30 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/img")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/img' is clicked on
+
+2563-04-16 02:20:30 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/img' is clicked on
+
+2563-04-16 02:20:30 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:31 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:31 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:32 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:32 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:32 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:32 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:33 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:33 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:33 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:33 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:34 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:34 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:34 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:34 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:35 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:35 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:35 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:35 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:36 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:36 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:36 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 1_vnbx-button vnbx-next' is clicked on
+
+2563-04-16 02:20:36 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_Photo Gallery 12_vnbx-button vnbx-close")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 12_vnbx-button vnbx-close' is clicked on
+
+2563-04-16 02:20:37 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_Photo Gallery 12_vnbx-button vnbx-close' is clicked on
+
+2563-04-16 02:20:37 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x' is clicked on
+
+2563-04-16 02:20:38 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/i_adminbdacoth_fab fa-facebook fa-2x' is clicked on
+
+2563-04-16 02:20:38 - [TEST_STEP][PASSED] - mouseOver(findTestObject("contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is hovered
+
+2563-04-16 02:20:38 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is hovered
+
+2563-04-16 02:20:38 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is clicked on
+
+2563-04-16 02:20:38 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm-6 social' is clicked on
+
+2563-04-16 02:20:38 - [TEST_STEP][PASSED] - click(findTestObject("contact/Page_BIG DATA AGENCY/a_BIG DATA AGENCY CO LTD")): Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_BIG DATA AGENCY CO LTD' is clicked on
+
+2563-04-16 02:20:39 - [MESSAGE][PASSED] - Object: 'Object Repository/contact/Page_BIG DATA AGENCY/a_BIG DATA AGENCY CO LTD' is clicked on
+
+2563-04-16 02:20:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2563-04-16 02:21:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2563-04-16 02:18:19 - [TEST_SUITE][PASSED] - testbigdata: Test Cases/test5]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

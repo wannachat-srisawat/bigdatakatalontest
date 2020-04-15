@@ -58,5 +58,7 @@ WebUI.click(findTestObject('contact/Page_BIG DATA AGENCY/div_adminbdacoth_col-sm
 
 WebUI.click(findTestObject('contact/Page_BIG DATA AGENCY/a_BIG DATA AGENCY CO LTD'))
 
+title = WebUI.getWindowTitle()
+
 WebUI.closeBrowser()
 
